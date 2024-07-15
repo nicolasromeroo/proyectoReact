@@ -106,6 +106,13 @@ button:focus-visible {
   color: white;
 } 
 
+.fa-cart-shopping {
+  position: absolute;
+  right: 0;
+  margin-right: 50px;
+  margin-top: 15px;
+}
+
 .calendarContainer {
   display: flex;
   flex-direction: column;

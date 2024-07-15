@@ -30,6 +30,7 @@ const NavBar = () => {
                         </li>
                     </ul>
                 </div>
+                <div className='col'><i class="fa-solid fa-cart-shopping"></i></div>
             </div>
         </div>
     )
