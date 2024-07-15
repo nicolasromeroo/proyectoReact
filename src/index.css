@@ -82,13 +82,29 @@ button:focus-visible {
   }
 } */
 
-.avion {
-  z-index: 1;
+* {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 
-.navbarStyle {
-  background-color: #efefef;
+.avion {
+  z-index: 1;
+  position: fixed;
+  left: -62px;
+  width: 300px;
+  height: auto;
 }
+
+.navBar {
+  z-index: 1;
+  font-size: 25px;
+}
+
+.navBar a {
+  -webkit-text-stroke: 1px black;
+  color: white;
+} 
 
 .calendarContainer {
   display: flex;
@@ -112,12 +128,13 @@ button:focus-visible {
 }
 
 .wallpaperContainer {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.61)), url(assets/img/wp7165389-caribe-wallpapers.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.61)), url(../public/img/banner.jpg);
   background-attachment: fixed;
-  background-size: 100%;
-  background-position: cover;
-  background-position-y: -200px;
-  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .presContainer {
@@ -133,7 +150,7 @@ button:focus-visible {
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
-    color: azure;
+  color: azure;
 }
 
 .subtituloILC {
@@ -146,3 +163,56 @@ button:focus-visible {
 .parrafoILC {
   color: azure;
 }
+
+.bannerContainer {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.582), rgba(0, 0, 0, 0.61)), url(../public/img/banner.jpg);
+  background-attachment: fixed;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bannerContainer h1 {
+  position: absolute;
+  font-size: 8rem;
+  color: aliceblue;
+}
+
+.bannerContainer h3 {
+  position: absolute;
+  top: 350px;
+  left: 650px;
+  font-size: 3rem;
+  color: aliceblue;
+}
+
+
+
+.cardContainer .card {
+  width: 100%;
+  height: auto;
+  display: flex;
+  text-align: center;
+  font-size: 15px;
+}
+.cardContainer .card p {
+  padding: 15px;
+}
+
+.cardContainer .card:hover {
+  box-shadow: 5px 5px 100px white;
+}
+
+.footer {
+  color: aliceblue;
+}
+
+.footer a i {
+  font-size: 20px;
+  margin: 10px;
+  padding: 10px;
+  color: chocolate;
+}
+
