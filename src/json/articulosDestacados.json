@@ -4,7 +4,7 @@
 
     {"id": 1, "hospedaje": "Hotel Cordón del Plata", "localidad": "mendoza", "descripcion": "Vuelo desde Córdoba con Flybondi - Cupos AEREOS CONFIRMADOS; 03 noches de alojamiento", "precio": 60.018, "img": "https://assets.conocecordoba.com.ar/placas/prd_31/image_box"},
 
-    {"id": 2, "hospedaje": "bogotá resort hotel", "localidad": "bogota", "descripcion": "Excursión a la Piedra del Peñol y Guatapé con almuerzo típico incluido.", "precio": 57.250, "img": "https://assets.conocecordoba.com.ar/placas/prd_219/image_box"},
+    {"id": 2, "hospedaje": "bogotá resort hotel", "localidad": "bogota", "descripcion": "Excursión a la Piedra del Peñol y Guatapé con almuerzo típico incluido.", "precio": 57.255, "img": "https://assets.conocecordoba.com.ar/placas/prd_219/image_box"},
 
     {"id": 3, "hospedaje": "COSTA CRUCEROS", "localidad": "mar del plata", "descripcion": "MINI CRUCERO URUGUAY", "precio": 121.966, "img": "https://assets.conocecordoba.com.ar/placas/prd_69/image_box"},
 

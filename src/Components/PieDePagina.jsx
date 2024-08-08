@@ -9,14 +9,14 @@ const PieDePagina = () => {
                     <p>
                          Calle Aventuras 123, Ciudad del Viaje, País de los Sueños<br/>
                         +123 456 7890<br />
-                        <a href="mailto:info@viajesmaravilla.com">info@viajesmaravilla.com</a>
+                        <a href="mailto:info@viajesmaravilla.com">info@specialtravel.com</a>
                     </p>
                     <div className='col' style={{ margin: '20px 0' }}>
                         <h3>Síguenos en redes sociales</h3>
-                        <a href="#"><i class="fa-brands fa-facebook"></i></a> |
-                        <a href="#"><i class="fa-brands fa-instagram"></i></a> |
-                        <a href="#"><i class="fa-brands fa-x-twitter"></i></a> |
-                        <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                        <a href="#"><i className="fa-brands fa-facebook"></i></a> |
+                        <a href="#"><i className="fa-brands fa-instagram"></i></a> |
+                        <a href="#"><i className="fa-brands fa-x-twitter"></i></a> |
+                        <a href="#"><i className="fa-brands fa-linkedin"></i></a>
                     </div>
                     <div className='col' style={{ margin: '20px 0' }}>
                         <h3>Recursos útiles</h3>

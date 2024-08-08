@@ -1,12 +1,12 @@
 
 [
 
-    {"id": 1, "hospedaje": "hotel el libertador", "pais": "argentina", "descripcion": "Ida y vuelta con Aerolíneas Argentinas (Salida desde Córdoba). Incluye objeto personal. No incluye equipaje de mano ni equipaje en bodega.", "precio": 58.018, "img": "https://content.r9cdn.net/rimg/dimg/00/b2/0741409b-lm-83108-1697ceb7c46.jpg?width=1366&height=768&xhint=1297&yhint=1081&crop=true"},
+    {"id": 1, "disponibilidad": 2, "hospedaje": "hotel el libertador", "pais": "argentina", "descripcion": "Ida y vuelta con Aerolíneas Argentinas (Salida desde Córdoba). Incluye objeto personal. No incluye equipaje de mano ni equipaje en bodega.", "precio": 58.018, "img": "https://content.r9cdn.net/rimg/dimg/00/b2/0741409b-lm-83108-1697ceb7c46.jpg?width=1366&height=768&xhint=1297&yhint=1081&crop=true"},
 
-    {"id": 2, "hospedaje": "brasilian resort hotel", "pais": "brasil", "descripcion": "Aéreo directo ida y vuelta con GOL (Salida desde Buenos Aires). Incluye objeto personal y equipaje de mano. No incluye equipaje en bodega", "precio": 47.250, "img": "https://res.cloudinary.com/worldpackers/image/upload/c_fill,f_auto,q_auto,w_1024/v1/guides/article_cover/zfxntzr62dmeyi5fcmjs"},
+    {"id": 2, "disponibilidad": 4, "hospedaje": "brasilian resort hotel", "pais": "brasil", "descripcion": "Aéreo directo ida y vuelta con GOL (Salida desde Buenos Aires). Incluye objeto personal y equipaje de mano. No incluye equipaje en bodega", "precio": 47.250, "img": "https://res.cloudinary.com/worldpackers/image/upload/c_fill,f_auto,q_auto,w_1024/v1/guides/article_cover/zfxntzr62dmeyi5fcmjs"},
 
-    {"id": 3, "hospedaje": "hotel interlaken del sur", "pais": "argentina", "descripcion": "Aéreos ida y vuelta con Aerolíneas Argentinas (Salida desde Córdoba). Incluye objeto personal, equipaje de mano, y equipaje en bodega", "precio": 121.966, "img": "https://www.interpatagonia.com/paseos/costanera-bariloche/costanera-bariloche-3.jpg"},
+    {"id": 3, "disponibilidad": 1, "hospedaje": "hotel interlaken del sur", "pais": "argentina", "descripcion": "Aéreos ida y vuelta con Aerolíneas Argentinas (Salida desde Córdoba). Incluye objeto personal, equipaje de mano, y equipaje en bodega", "precio": 121.966, "img": "https://www.interpatagonia.com/paseos/costanera-bariloche/costanera-bariloche-3.jpg"},
 
-    {"id": 4, "hospedaje": "palo rosa lodge", "pais": "brasil", "descripcion": "Aéreos ida y vuelta con Aerolíneas Argentinas (Salida desde Córdoba). Incluye objeto personal, equipaje de mano, y equipaje en bodega", "precio": 121.966, "img": "https://www.interpatagonia.com/paseos/costanera-bariloche/costanera-bariloche-3.jpg"}
+    {"id": 4, "disponibilidad": 3, "hospedaje": "palo rosa lodge", "pais": "brasil", "descripcion": "Aéreos ida y vuelta con Aerolíneas Argentinas (Salida desde Córdoba). Incluye objeto personal, equipaje de mano, y equipaje en bodega", "precio": 121.966, "img": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/306834049.jpg?k=d16d69f6623388e716703416bdb2a0b10754aae4c7b36c28098d8bf434fd5b56&o=&hp=1"}
 
 ]
